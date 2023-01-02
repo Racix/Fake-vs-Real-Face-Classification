@@ -1,7 +1,14 @@
 # Fake-vs-Real-Face-Classification
 
+## Members
+Group 10
+
+Abboshon Hamraliev abbham-9@student.ltu.se 
+
+Jean-Claude Hallard jeahal-8@student.ltu.se
+
 ## Intro
-This is a project where we proform a classification of real and fake faces. We do it by using Convolutional neural network (CNN) and further explore the compatibility of the algorithm with dataset we make use of several CNN archeturs, namely Lenet and Densenet.
+This is a project where we proform a classification of real and fake faces. We do it by using Convolutional neural network (CNN) and further explore the compatibility of the algorithm with dataset we make use of several CNN archeturs, namely LeNet and DenseNet.
 
 ## Dataset 
 https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces
